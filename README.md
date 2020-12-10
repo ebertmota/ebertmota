@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Ebert Mota github stats](https://github-readme-stats.vercel.app/api?username=ebertmota&show_icons=true&theme=dracula)
+![Ebert Mota github stats](https://github-readme-stats.vercel.app/api?username=ebertmota&show_icons=true&theme=graywhite)
