@@ -1,3 +1,1 @@
-Passionate about technology, i've been studying web and mobile development focused in Javascript ecosystem (React, React Native and Node.js).
-
-In my free time I like to play league and watch some tv series.
+Truly a technology lover, working with software development for more than three years, focused on the Javascript ecosystem (Node, React, and React Native).
